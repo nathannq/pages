@@ -1,0 +1,43 @@
+.highlight {
+    background-color: red;
+}
+
+.bigText {
+    font-size: 200%;
+    font-weight: bold;
+    font-family:'Times New Roman', Times, serif;
+    font-style: italic;
+}
+
+.oneText {
+    text-align: right;
+}
+
+li a {
+    text-decoration:line-through;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+li {
+    display: inline-block;
+    background-color: red;
+    color: white;
+}
+
+.twoText {
+    line-height: 200px;
+    
+}
+
+footer {
+    background-color: grey;
+    color: white;
+}
+
+body {
+    background-color: bisque;
+}
+
+section {
+    background-color: aliceblue;
+}
